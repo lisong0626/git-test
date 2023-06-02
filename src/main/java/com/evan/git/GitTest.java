@@ -1,0 +1,14 @@
+package com.evan.git;
+
+/**
+ * @Author: lisong
+ * @CreateTime: 2023/6/2 15:24 星期五
+ * @Description:
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("Hello,Git");
+        System.out.println("Hello,GitHub");
+        System.out.println("Hello,Git2");
+    }
+}
